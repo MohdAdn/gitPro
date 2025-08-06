@@ -1,2 +1,2 @@
 console.log("Hello git");
-console.log("I am in the index.js file");
+console.log("I am in the index.js file version 1.0");
